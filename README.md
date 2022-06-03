@@ -345,3 +345,14 @@ TIDoS is provided as an offensive web application audit framework. It has built-
 
 __THEREFORE, NEITHER THE AUTHOR NOR THE CONTRIBUTORS ARE RESPONSIBLE FOR ANY MISUSE OR DAMAGE DUE TO THIS TOOLKIT.__
 
+
+
+
+
+For Quick Install
+git clone https://github.com/0xinfection/tidos-framework.git
+cd tidos-framework
+chmod +x install
+./install
+
+all TIDoS by simply typing tidos
