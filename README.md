@@ -355,12 +355,18 @@ git clone https://github.com/0xinfection/tidos-framework.git
 
 cd tidos-framework
 
-sudo apt-get install libncurses5 libxml2 nmap tcpdump libexiv2-dev build-essential python3-pip libmariadbclient18 libmysqlclient-dev tor konsole
-
-
 chmod +x install
 
 ./install
+
+sudo apt-get install libncurses5 libxml2 nmap tcpdump libexiv2-dev build-essential python3-pip libmariadbclient18 libmysqlclient-dev tor konsole
+
+pip3 install -r requirements.txt
+
+python3 tidv2               #Qt5 interface
+sudo python3 tidconsole.py  #console interfac
+
+
 
 all TIDoS by simply typing tidos
 
