@@ -350,9 +350,14 @@ __THEREFORE, NEITHER THE AUTHOR NOR THE CONTRIBUTORS ARE RESPONSIBLE FOR ANY MIS
 
 
 For Quick Install
+
 git clone https://github.com/0xinfection/tidos-framework.git
+
 cd tidos-framework
+
 chmod +x install
+
 ./install
 
 all TIDoS by simply typing tidos
+
