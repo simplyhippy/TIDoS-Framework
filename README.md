@@ -355,6 +355,9 @@ git clone https://github.com/0xinfection/tidos-framework.git
 
 cd tidos-framework
 
+sudo apt-get install libncurses5 libxml2 nmap tcpdump libexiv2-dev build-essential python3-pip libmariadbclient18 libmysqlclient-dev tor konsole
+
+
 chmod +x install
 
 ./install
